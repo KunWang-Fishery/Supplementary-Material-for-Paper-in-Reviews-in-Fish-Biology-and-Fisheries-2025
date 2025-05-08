@@ -1,4 +1,4 @@
-# Supplementary-Material-for-Paper-in-Reviews-in-Fish-Biology-and-Fisheries-2025
+# Supplementary Material for Paper in *Reviews in Fish Biology and Fisheries*
 
 This is the supplementary material for the paper "*Navigating Life-History Parameter Uncertainty in Data-Limited Fisheries: A Comparative Analysis of Length-Based Stock Assessment Methods*" submitted to *Reviews in Fish Biology and Fisheries* in Jan 2025.  
 
